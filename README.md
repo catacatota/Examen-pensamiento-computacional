@@ -4,6 +4,7 @@ Sistema visual interactivo avanzado en p5.js
 [link](https://editor.p5js.org/Cataaa/sketches/mr_CHW91Z) editable de p5.js
 
 [link](https://editor.p5js.org/Cataaa/full/mr_CHW91Z) solo para visualizar
+
 nombre de la obra: Resonancia Orbital
 ___
 
