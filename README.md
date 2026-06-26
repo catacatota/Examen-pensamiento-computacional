@@ -49,10 +49,18 @@ también utilicé esta función para poder cambiar los colores del fondo, el rel
 Devuelta al sketch, arriba del texto se pone "textFont()" y se escribe el título de la fuente.
 <img width="940" height="180" alt="image" src="https://github.com/user-attachments/assets/778833aa-257b-4d89-aec2-5c2c9af4239e" />
 
+# Complicaciones:
+Antes de poner un gif de fondo en la pantalla de inicio tenía planeado poner sonido de fondo, cada vez que el usuario mantuviera presionado el botón del mouse, se iba a escuchar unos sonidos de ondas. Al inicio me salió un error, lo cual lo pude resolver con un video en youtube, pero después no pude conseguir que el sonido pare cuando el usuario deje de apretar el mouse. Finalmente buscando soluciones encontré el gif que aparece en la pantalla de inicio y decidí cambiar el sonido por el gif, ya que se relaciona con el movimiento y el borde de la pantalla de interacción, además complementa el resto de la intro y el menú, ya que antes se veía más vacío.
+- GIF:
+<img width="500" height="375" alt="6a251c5f6a16a619b2b5aecf7b8bfabd" src="https://github.com/user-attachments/assets/740d6825-b544-479d-89f0-eac4d036d99f" />
 
+- Pantalla de inicio:
+
+<img width="1120" height="982" alt="image" src="https://github.com/user-attachments/assets/ee9e45ff-f31b-4308-b876-29a0f3c26067" />
 
 
 ## Inputs y Outputs
+
 # Inputs
 - Posición del mouse *(mouseX y mouseY)*
 - Clic del mouse *(mouseIsPressed)*
