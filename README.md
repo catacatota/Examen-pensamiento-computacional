@@ -4,7 +4,7 @@ Sistema visual interactivo avanzado en p5.js
 [link](https://editor.p5js.org/Cataaa/sketches/mr_CHW91Z) editable de p5.js
 
 [link](https://editor.p5js.org/Cataaa/full/mr_CHW91Z) solo para visualizar
-
+nombre de la obra: Resonancia Orbital
 ___
 
 # ¿Qué es?
@@ -48,6 +48,9 @@ también utilicé esta función para poder cambiar los colores del fondo, el rel
 Devuelta al sketch, arriba del texto se pone "textFont()" y se escribe el título de la fuente.
 <img width="940" height="180" alt="image" src="https://github.com/user-attachments/assets/778833aa-257b-4d89-aec2-5c2c9af4239e" />
 
+
+
+
 ## Inputs y Outputs
 # Inputs
 - Posición del mouse *(mouseX y mouseY)*
@@ -65,4 +68,7 @@ Devuelta al sketch, arriba del texto se pone "textFont()" y se escribe el títul
 
 
 ## Diagrama de lujo
+[link](https://www.canva.com/design/DAHNp91l9B0/SzZktwPrTB5XcElRUJh6NQ/edit?ui=eyJFIjp7IkE_IjoiQSIsIkEiOiJGbG93Y2hhcnQifX0)
   <img width="1920" height="1080" alt="Flowchart Whiteboard in Bright Green Lime Green Pink Corporate Neon Style" src="https://github.com/user-attachments/assets/2aff2d99-4d71-4e5b-9840-d4b8ed175435" />
+
+# Autora: Catalina San Martín
